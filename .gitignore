@@ -1,4 +1,5 @@
 ./DStore
+.vscode/
 *.csv
 *.xlsx
 fs-playground.ipynb
