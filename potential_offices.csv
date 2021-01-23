@@ -1,5 +1,5 @@
 id,address,lat,lng,rent,size
-62770194,"13 Oxford Rd, BH8 8HA Bournemouth, United Kingdom",50.72422479999999,-1.8658241,"£1,151 pcm","250–1,190 sq. ft."
+88973570,"Roddis House, 4-10 Old Christchurch Road, Bournemouth, Dorset, BH1 1LG",50.7199715,-1.8781467,£942 pcm,904 sq. ft.
 83154023,"Fir Vale Road, Bournemouth, Dorset, BH1",50.721864,-1.874077,POA,"491–35,200 sq. ft."
 85052380,"The Helm, Holdenhurst Road, Bournemouth, Dorset BH8 8EJ",50.72351430000001,-1.86519,POA,"8,417–34,488 sq. ft."
 85271110,"Richmond House, Richmond Hill, Bournemouth, BH2 6EZ",50.7218568,-1.8777161,POA,"1,336–12,974 sq. ft."
@@ -24,7 +24,7 @@ id,address,lat,lng,rent,size
 94352135,"Third floor, Burlington Arcade, Bournemouth, Dorset, BH1",50.7212604,-1.8756314,POA,"2,634 sq. ft."
 71230708,"Unit 7 Churchill Court, 33 Palmerston Road, Bournemouth, Dorset, BH1 4HN",50.7272922,-1.8425732,"£2,625 pcm","2,073 sq. ft."
 98390642,"Heliting House, 35 Richmond Hill, Bournemouth, Dorset, BH2",50.722342,-1.8789958,"£2,392 pcm","2,055 sq. ft."
-91282412,"Platinum House, 23 , Hinton Road ,BH1 2EF",50.7190467,-1.8735577,£200 pcm,100–150 sq. ft.
+91282397,"15-17 , Stephens Road ,BH2 6LA",50.7231284,-1.882801,£588 pcm,"500–1,000 sq. ft."
 96075872,"Unit 2 Palmerston Road, Bournemouth, Dorset, BH1",50.72756400000001,-1.8419271,"£2,133 pcm","1,603 sq. ft."
 74321958,"St. Stephens Road, Bournemouth, Dorset, BH2",50.7229644,-1.8815691,POA,"600–1,566 sq. ft."
 97867682,"Heliting House, 35 Richmond Hill, Bournemouth, Dorset, BH2",50.722342,-1.8789958,"£1,817 pcm","1,560 sq. ft."
@@ -34,66 +34,66 @@ id,address,lat,lng,rent,size
 96070205,"Unit 4, Churchill Court, Palmerston Road, Bournemouth, Dorset, BH1",50.7272922,-1.8425732,"£1,820 pcm","1,365 sq. ft."
 62770194,"13 Oxford Rd, BH8 8HA Bournemouth, United Kingdom",50.72422479999999,-1.8658241,"£1,151 pcm","250–1,190 sq. ft."
 100696913,"76 Shelley Road East, Bournemouth, Dorset, BH7",50.7292845,-1.8384677,£763 pcm,"769–1,071 sq. ft."
-91282622,"Bourne Gardens, Exeter Park Road,BH2 5BD",50.71849779999999,-1.878082,"£1,200 pcm","500–1,000 sq. ft."
 92475032,"319a, Holdenhurst Road, Bournemouth, Dorset, BH8 8BT",50.7323376,-1.8517128,£600 pcm,"500–1,000 sq. ft."
+91282622,"Bourne Gardens, Exeter Park Road,BH2 5BD",50.71849779999999,-1.878082,"£1,200 pcm","500–1,000 sq. ft."
 91357214,"2 Wilson House , Lorne Park Road, BH1 1JN",50.7227504,-1.871747,£600 pcm,"500–1,000 sq. ft."
+70455267,"Echo Building 18 , Albert Road, Bournemouth, Dorset, BH1 1BZ",50.72150999999999,-1.8782414,POA,"500–1,000 sq. ft."
 91282436,"Platinum House, 23 , Hinton Road ,BH1 2EF",50.7190467,-1.8735577,"£1,200 pcm","500–1,000 sq. ft."
 91282397,"15-17 , Stephens Road ,BH2 6LA",50.7231284,-1.882801,£588 pcm,"500–1,000 sq. ft."
-70455267,"Echo Building 18 , Albert Road, Bournemouth, Dorset, BH1 1BZ",50.72150999999999,-1.8782414,POA,"500–1,000 sq. ft."
 88973570,"Roddis House, 4-10 Old Christchurch Road, Bournemouth, Dorset, BH1 1LG",50.7199715,-1.8781467,£942 pcm,904 sq. ft.
 83271635,"13 Oxford Rd, Bournemouth, BH8 8HA",50.72422479999999,-1.8658241,£547 pcm,150–900 sq. ft.
 93893948,"Gervis Road, Bournemouth, Dorset, BH1",50.72025739999999,-1.8641491,£235 pcm,111–880 sq. ft.
 81191555,"27-31 Old Christchurch Road, Bournemouth, Dorset, BH1 1DS",50.72026349999999,-1.8778941,£708 pcm,859 sq. ft.
 97352513,"Third Floor 3 Westover Road, Bournemouth, Dorset, BH1",50.7197002,-1.8765272,"£1,917 pcm",775 sq. ft.
 89297027,"13 Oxford Rd, Bournemouth, BH8 8HA",50.72422479999999,-1.8658241,£103 pcm,53–538 sq. ft.
-91282610,"Bourne Gardens, Exeter Park Road,BH2 5BD",50.71849779999999,-1.878082,"£1,000 pcm",250–500 sq. ft.
 91357193,"2 Wilson House , Lorne Park Road, BH1 1JN",50.7227504,-1.871747,£500 pcm,250–500 sq. ft.
-91282385,"15-17 , Stephens Road ,BH2 6LA",50.7231284,-1.882801,£490 pcm,250–500 sq. ft.
-91282412,"Platinum House, 23 , Hinton Road ,BH1 2EF",50.7190467,-1.8735577,£200 pcm,100–150 sq. ft.
+91282610,"Bourne Gardens, Exeter Park Road,BH2 5BD",50.71849779999999,-1.878082,"£1,000 pcm",250–500 sq. ft.
 70455258,"Echo Building 18 , Albert Road, Bournemouth, Dorset, BH1 1BZ",50.72150999999999,-1.8782414,POA,250–500 sq. ft.
-92474966,"319a, Holdenhurst Road, Bournemouth, Dorset, BH8 8BT",50.7323376,-1.8517128,£500 pcm,250–500 sq. ft.
+91282412,"Platinum House, 23 , Hinton Road ,BH1 2EF",50.7190467,-1.8735577,£200 pcm,100–150 sq. ft.
 91282427,"Hinton Road, Bournemouth, Dorset, BH1",50.7191513,-1.8745107,"£1,000 pcm",250–500 sq. ft.
+92474966,"319a, Holdenhurst Road, Bournemouth, Dorset, BH8 8BT",50.7323376,-1.8517128,£500 pcm,250–500 sq. ft.
+91282385,"15-17 , Stephens Road ,BH2 6LA",50.7231284,-1.882801,£490 pcm,250–500 sq. ft.
 87367808,"Suite 3, FF, 40-44 Holdenhurst Road, Bournemouth, Dorset, BH8",50.72329149999999,-1.8646507,£950 pcm,493 sq. ft.
 80571578,"2nd Floor, 4 Lansdowne Crescent, Bournemouth, Dorset, BH1 1RX",50.72240900000001,-1.866435,£500 pcm,469 sq. ft.
 97352630,"Third Floor 3 Westover Road, Bournemouth, Dorset, BH1",50.7197002,-1.8765272,"£1,125 pcm",463 sq. ft.
 98146364,"Gervis Road, Bournemouth, Dorset, BH1",50.72025739999999,-1.8641491,£990 pcm,409 sq. ft.
 89739017,"Gervis Road, Bournemouth, Dorset, BH1",50.72025739999999,-1.8641491,£990 pcm,395 sq. ft.
-88383749,"Walton House, 56-58 Richmond Hill, Bournemouth, Dorset, BH2",50.722043,-1.8782258,POA,133–390 sq. ft.
 88432742,"Walton House, 56-58 Richmond Hill, Bournemouth, Dorset, BH2",50.722043,-1.8782258,POA,133–390 sq. ft.
+88383749,"Walton House, 56-58 Richmond Hill, Bournemouth, Dorset, BH2",50.722043,-1.8782258,POA,133–390 sq. ft.
 62769378,"Oxford Road, Bournemouth, Dorset, BH8",50.7246743,-1.8657866,£188 pcm,80–370 sq. ft.
 96757793,"Tayfield House, Poole Road, Bournemouth, Dorset, BH4",50.72256050000001,-1.8992846,£600 pcm,300 sq. ft.
 62770614,"13 Oxford Rd, BH8 8HA Bournemouth, United Kingdom",50.72422479999999,-1.8658241,£160 pcm,100–300 sq. ft.
 77357000,"Gervis Road, Bournemouth, Dorset, BH1",50.72025739999999,-1.8641491,£640 pcm,266 sq. ft.
 97352804,"Third Floor 3 Westover Road, Bournemouth, Dorset, BH1",50.7197002,-1.8765272,£792 pcm,258 sq. ft.
-92473802,"319a, Holdenhurst Road, Bournemouth, Dorset, BH8 8BT",50.7323376,-1.8517128,£300 pcm,150–250 sq. ft.
 91357175,"2 Wilson House , Lorne Park Road, BH1 1JN",50.7227504,-1.871747,£300 pcm,150–250 sq. ft.
+70455237,"Echo Building 18 , Albert Road, Bournemouth, Dorset, BH1 1BZ",50.72150999999999,-1.8782414,POA,150–250 sq. ft.
+92473802,"319a, Holdenhurst Road, Bournemouth, Dorset, BH8 8BT",50.7323376,-1.8517128,£300 pcm,150–250 sq. ft.
+91282418,"Platinum House, 23 , Hinton Road ,BH1 2EF",50.7190467,-1.8735577,£600 pcm,150–250 sq. ft.
 91282595,"Bourne Gardens, Exeter Park Road ,BH2 5BD",50.71849779999999,-1.878082,£600 pcm,150–250 sq. ft.
 91282373,"15-17 , Stephens Road ,BH2 6LA",50.7231284,-1.882801,£294 pcm,150–250 sq. ft.
-70455237,"Echo Building 18 , Albert Road, Bournemouth, Dorset, BH1 1BZ",50.72150999999999,-1.8782414,POA,150–250 sq. ft.
-91282418,"Platinum House, 23 , Hinton Road ,BH1 2EF",50.7190467,-1.8735577,£600 pcm,150–250 sq. ft.
 97352690,"Third Floor 3 Westover Road, Bournemouth, Dorset, BH1",50.7197002,-1.8765272,£708 pcm,248 sq. ft.
 97971452,"Tayfield House, Poole Road, Bournemouth, Dorset, BH4",50.72256050000001,-1.8992846,£475 pcm,236 sq. ft.
 62770389,"13 Oxford Rd, BH8 8HA Bournemouth, United Kingdom",50.72422479999999,-1.8658241,£188 pcm,53–215 sq. ft.
-62770194,"13 Oxford Rd, BH8 8HA Bournemouth, United Kingdom",50.72422479999999,-1.8658241,"£1,151 pcm","250–1,190 sq. ft."
+91282397,"15-17 , Stephens Road ,BH2 6LA",50.7231284,-1.882801,£588 pcm,"500–1,000 sq. ft."
 63932313,"3 Lorne Park Road, Bournemouth, Dorset, BH1 1AH",50.7227822,-1.8701399,£450 pcm,207 sq. ft.
-92473712,"319a, Holdenhurst Road, Bournemouth, Dorset, BH8 8BT",50.7323376,-1.8517128,£100 pcm,100–150 sq. ft.
 91357148,"2 Wilson House , Lorne Park Road, BH1 1JN",50.7227504,-1.871747,£100 pcm,100–150 sq. ft.
-91282592,"Bourne Gardens, Exeter Park Road ,BH2 5BD",50.71849779999999,-1.878082,£200 pcm,100–150 sq. ft.
-91282361,"15-17 , Stephens Road ,BH2 6LA",50.7231284,-1.882801,£98 pcm,100–150 sq. ft.
+92473712,"319a, Holdenhurst Road, Bournemouth, Dorset, BH8 8BT",50.7323376,-1.8517128,£100 pcm,100–150 sq. ft.
 70455201,"Echo Building 18 , Albert Road, Bournemouth, Dorset, BH1 1BZ",50.72150999999999,-1.8782414,POA,100–150 sq. ft.
 91282412,"Platinum House, 23 , Hinton Road ,BH1 2EF",50.7190467,-1.8735577,£200 pcm,100–150 sq. ft.
+91282592,"Bourne Gardens, Exeter Park Road ,BH2 5BD",50.71849779999999,-1.878082,£200 pcm,100–150 sq. ft.
+91282361,"15-17 , Stephens Road ,BH2 6LA",50.7231284,-1.882801,£98 pcm,100–150 sq. ft.
 96548399,"Office 6 Old Library House Dean Park Crescent, Bournemouth, Dorset, BH1",50.7229587,-1.8746422,£295 pcm,140 sq. ft.
 96548366,"Office 5 Old Library House Dean Park Crescent, Bournemouth, Dorset, BH1",50.7229587,-1.8746422,£295 pcm,120 sq. ft.
 101964863,"Regus Oxford Point, 13 Oxford Road, Bournemouth, Dorset, BH8",50.7242006,-1.8657689,POA,110 sq. ft.
-83497391,"Bourne House, Hinton Road, Bournemouth, Dorset, BH1",50.7190467,-1.8735577,£190 pcm,100 sq. ft.
 95122166,"Post Office Road, Bournemouth, Dorset, BH1",50.7206341,-1.878499,£200 pcm,100 sq. ft.
+83497391,"Bourne House, Hinton Road, Bournemouth, Dorset, BH1",50.7190467,-1.8735577,£190 pcm,100 sq. ft.
 92475098,"319a, Holdenhurst Road, Bournemouth, Dorset, BH8 8BT",50.7323376,-1.8517128,£100 pcm,50–80 sq. ft.
 91357229,"2 Wilson House , Lorne Park Road, BH1 1JN",50.7227504,-1.871747,£100 pcm,50–80 sq. ft.
 91282745,"Bourne Gardens, Exeter Park Road,BH2 5BD",50.71849779999999,-1.878082,£200 pcm,50–80 sq. ft.
-91282442,"Platinum House, 23 , Hinton Road ,BH1 2EF",50.7190467,-1.8735577,£200 pcm,50–80 sq. ft.
-91282565,"Clarendon Business Centre Clifton House, 10, Poole Hill,BH2 5PS",50.71983170000001,-1.8863406,£365 pcm,50–80 sq. ft.
 70455276,"Echo Building 18 , Albert Road, Bournemouth, Dorset, BH1 1BZ",50.72150999999999,-1.8782414,POA,50–80 sq. ft.
 91282403,"15-17 , Stephens Road ,BH2 6LA",50.7231284,-1.882801,£98 pcm,50–80 sq. ft.
+91282442,"Platinum House, 23 , Hinton Road ,BH1 2EF",50.7190467,-1.8735577,£200 pcm,50–80 sq. ft.
+91282565,"Clarendon Business Centre Clifton House, 10, Poole Hill,BH2 5PS",50.71983170000001,-1.8863406,£365 pcm,50–80 sq. ft.
 95494049,"1 St Stephen's Court, St Stephen's Road, Bournemouth, BH2 6LA",50.722988,-1.8824265,"£3,833 pcm","2,881 sq. ft."
 100022672,"Manor Road, Bournemouth, Dorset, BH1",50.7211779,-1.8548801,£338 pcm,
 77062008,"Wimborne Road, Kinson, Bournemouth, BH10",50.7688673,-1.9019532,£375 pcm,
